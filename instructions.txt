@@ -1,0 +1,2 @@
+You are hacking into the multi-million dollar company MegaCorpOne! You and your team have just wirelessly captured the handshake of the CEO of MegaCorpOne. Use your OSINT 
+and password cracking skills to get the password!
